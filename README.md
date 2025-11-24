@@ -33,6 +33,6 @@ The core objective was to apply data manipulation and standardization techniques
 
 | Category | Skills Demonstrated |
 | :--- | :--- |
-| **Technical Proficiency** | **Advanced SQL** (Self-Joins, String Manipulation, `UPDATE`/`ALTER`, Window Functions like `ROW_NUMBER()`), Data Definition and Manipulation Language (DDL/DML) |
+| **Technical Proficiency** | **SQL** (Self-Joins, String Manipulation, `UPDATE`/`ALTER`, Window Functions like `ROW_NUMBER()`), Data Definition and Manipulation Language (DDL/DML) |
 | **Data Analytics** | **Data Cleaning** and Pre-processing, Data Quality Assurance, Data Splitting, Data Standardization. |
-| **Analytical & Mathematical** | **Logical Problem Solving**, Application of Set Theory (Deduplication logic), Relational Logic, Attention to Detail. |
+| **Analytical & Mathematical** | **Logical Problem Solving**, Deduplication and Relational Logic, Attention to Detail. |
